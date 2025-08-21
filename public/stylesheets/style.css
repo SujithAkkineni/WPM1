@@ -77,11 +77,11 @@ p {
 a {
  color: rgba(255, 255, 255, 0.8)
 }
-a:hover {
+a:hover {   
  color:#fff
 }
 body {
  font-family: "Cabin", Arial, Helvetica, sans-serif, sans-serif;
  color: #fff;
- background-color: #2a719de0;
+ background-color: #188fd9e0;
 } 
